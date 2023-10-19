@@ -4,7 +4,7 @@ function [doa_est] = MSSL(x)
 % Output:	doa_est	- DOA estimates
 
 % Reference: B. Yang, H. Liu, C. Pang, and X. Li, "Multiple sound source counting and localization based on TF-wise spatial spectrum clustering," 
-%            IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 27, no. 8, pp. 1241¨C1255, 2019.
+%            IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 27, no. 8, pp. 1241-1255, 2019.
 % Author:    Bing Yang, Key Laboratory of Machine Perception, Peking University
 % History:   2020-02-10 - Initial version
 % Copyright Bing Yang
