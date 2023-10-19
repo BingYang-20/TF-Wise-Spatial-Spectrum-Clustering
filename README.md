@@ -14,6 +14,11 @@ A MATLAB implementation of “**<a href="https://ieeexplore.ieee.org/document/87
 + **example.py** gives an example for multiple sound source localization on the data x.mat
 + **x.mat** stores one instance of microphone signals (1s, 16000samples, 8 channels)
 
+## Quick Start
++ run example.py
++ If you want to change test data, you can change the loaded mat data (currently x.mat) in example.py
++ If you want to change the topolopy of microphone array (number of mircophones or geometry), you need to change the steering vector (currently sv.mat) in MSSL.py according to array topology
+
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
