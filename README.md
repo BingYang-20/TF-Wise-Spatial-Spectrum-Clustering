@@ -21,8 +21,8 @@ If you find our work useful in your research, please consider citing:
     Journal = "{IEEE/ACM} Transactions on Audio, Speech, and Language Processing (TASLP)",
     Volume = "27",	
     Number = "8",
-	Pages = "1241-1255",
-	Year = "2019"}
+    Pages = "1241-1255",
+    Year = "2019"}
 ```
 
 ## Licence
