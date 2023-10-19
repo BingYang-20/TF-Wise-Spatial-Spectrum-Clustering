@@ -8,8 +8,8 @@ A MATLAB implementation of “**<a href="https://ieeexplore.ieee.org/document/87
 ## Main Description
 + **MSSL.py** is the main implementation of the proposed method
     - **SinSouTF.py** provides the binary TF weight for single source dominated TF bins and the ranked eigenvectors of spatial correlation matrix
-    - **TFSpatSpect.py** calculates the TF-wise spatilal spectrum (Section III)
-    - **SouCouLoc** joint counts and localizes multiple sound sources (Section IV)
+    - **TFSpatSpect.py** calculates the TF-wise spatilal spectrum (see method description in Section III)
+    - **SouCouLoc** joint counts and localizes multiple sound sources (see method description in Section IV)
     - **sv.mat** stores the steering vector for the considered 8-channel uniform circular microphone array
 + **example.py** gives an example for multiple sound source localization on the data x.mat
 + **x.mat** stores one instance of microphone signals (1s, 16000samples, 8 channels)
